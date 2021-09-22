@@ -1,0 +1,7 @@
+{
+  "name": "Paul's Bot",
+  "description": "🤖 Discord Music Bot built with discord.js",
+  "repository": "https://github.com/pavelastro/musicbot",
+  "logo": "",
+  "keywords": ["discord", "discordjs", "music", "bot"]
+}
