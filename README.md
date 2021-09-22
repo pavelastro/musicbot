@@ -16,9 +16,7 @@ After installation finishes follow configuration instructions then run `node ind
 
 ## ⚙️ Configuration
 
-Copy or Rename `config.json.example` to `config.json` and fill out the values:
-
-⚠️ **Note: Never commit or share your token or api keys publicly** ⚠️
+Toggle to `config.json` and fill out the values:
 
 ```json
 {
