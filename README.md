@@ -1,5 +1,5 @@
 # musicbot
-Music Bot for discord
+Discord Music Bot
 
 # 🤖 Pavel's Music Bot (Discord Music Bot)
 > MusicBot is a Discord Music Bot built with discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide)
